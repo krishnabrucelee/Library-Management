@@ -1,7 +1,7 @@
 package com.krishna.cloudstackrootadminapi.x;
 
 /**
- * List Cluster Response from demo.fogpanel.com/client
+ * List Cluster Response from demo.fogpanel.com/client/api
  *
  * @author Krishna <krishna.it2329@gmail.com>
  */

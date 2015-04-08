@@ -37,7 +37,7 @@ import org.xml.sax.SAXException;
 
 /**
  * Cloud stack RootAdminApi 4.2.X to list all clusters from AssistanZ
- * demo.fogpanel.com/client
+ * demo.fogpanel.com/client/api
  *
  * @author Krishna <krishna.t2329@gmail.com>
  */
